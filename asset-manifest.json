@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bud-project/static/css/main.2d2ccc1f.css",
+    "main.js": "/bud-project/static/js/main.4a9cdea5.js",
+    "static/js/787.568f5c3b.chunk.js": "/bud-project/static/js/787.568f5c3b.chunk.js",
+    "index.html": "/bud-project/index.html",
+    "main.2d2ccc1f.css.map": "/bud-project/static/css/main.2d2ccc1f.css.map",
+    "main.4a9cdea5.js.map": "/bud-project/static/js/main.4a9cdea5.js.map",
+    "787.568f5c3b.chunk.js.map": "/bud-project/static/js/787.568f5c3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d2ccc1f.css",
+    "static/js/main.4a9cdea5.js"
+  ]
+}
